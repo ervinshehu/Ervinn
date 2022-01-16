@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ervinshehu
 - 👀 I’m interested in web developing
-- 🌱 I’m currently learning frontend
+- 🌱 I’m currently learning Frontend
 - 📫 How to reach me --> @ervinshehu323@gmail.com 
 
 <!---
